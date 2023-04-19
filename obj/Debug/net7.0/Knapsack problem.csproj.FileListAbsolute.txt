@@ -1,0 +1,15 @@
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.csproj.AssemblyReference.cache
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.AssemblyInfoInputs.cache
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.AssemblyInfo.cs
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.csproj.CoreCompileInputs.cache
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\bin\Debug\net7.0\Knapsack problem.exe
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\bin\Debug\net7.0\Knapsack problem.deps.json
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\bin\Debug\net7.0\Knapsack problem.runtimeconfig.json
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\bin\Debug\net7.0\Knapsack problem.dll
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\bin\Debug\net7.0\Knapsack problem.pdb
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.dll
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\refint\Knapsack problem.dll
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.pdb
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\Knapsack problem.genruntimeconfig.cache
+C:\Users\andin\OneDrive\Documents\anyway\Knapsack problem\obj\Debug\net7.0\ref\Knapsack problem.dll
